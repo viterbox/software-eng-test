@@ -42,7 +42,7 @@ Here's what you should strive for:
 
 ## Bonus
 
-- Write a API Gateway to monitor the status of services and be able to notify by the event bus in kafka or any other streaming process you have used, what service is failing.
+- Write a API Gateway to monitor the status of services and be able to notify by the event bus in kafka or any other streaming process that you have used for the comunication between microservices, what service is failing.
 - Providing an online demo is welcomed, but not required.
 
 ## Good luck!
