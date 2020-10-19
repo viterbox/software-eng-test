@@ -1,0 +1,52 @@
+# Software Engineer Test
+
+## Requirement
+
+You have to code REST API's based on microservices Arquitecture to get groceries order and to simulate the process of payment. The information flow must be the following
+
+1. User registration
+2. User choose order items
+3. User cart checkout
+4. Payment Process
+5. Order is created
+
+For communication between microservices, you must use Kafka or anyother stream processor that you know
+
+## What We Care About
+
+Use any libraries that you would normally use if this were a real production App. Please note: we're interested in your code & the way you solve the problem, not how well you can use a particular library or feature.
+
+We're interested in your method and how you approach the problem just as much as we're interested in the end result.
+
+Here's what you should strive for:
+
+- Software architecture diagram
+- Good use of the backend stack selected
+- API design best practices.
+- Solid testing approach.
+- Extensible code.
+
+
+## Functionality
+1. Write the HTTP endpoints needed to follow the information flow specified.
+2. Write the HTTP endpoints to get and filter orders by id, user, date, and page (pagination)
+
+## Basic Requirements
+
+1. Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework) or DotNetCore Framework (C#).
+2. Use any persistence store, explain your selection.
+3. Write concise and clear commit messages.
+4. Draw the Software architecture diagram
+5. Write clear documentation on how it has been designed and how to run the code.
+
+## Bonus
+
+- Provide proper unit tests.
+- Add and enpoint to get the health status of the services
+- Providing an online demo is welcomed, but not required.
+
+## Good luck!
+
+We look forward to seeing what you can do. Remember, although it is a test, there are no specific right or wrong answers that we are looking for - just do the job as best you can.
+
+
