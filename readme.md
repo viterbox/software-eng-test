@@ -2,7 +2,7 @@
 
 ## Requirement
 
-You have to code REST API's based on microservices Arquitecture to get groceries order and to simulate the process of payment. The information flow must be the following
+You have to code REST API's based on microservices architecture to get groceries order and to simulate the process of payment. The information flow must be the following
 
 1. User registration
 2. User choose order items
@@ -30,6 +30,7 @@ Here's what you should strive for:
 ## Functionality
 1. Write the HTTP endpoints needed to follow the information flow specified.
 2. Write the HTTP endpoints to get and filter orders by id, user, date, and page (pagination)
+3. Provide proper unit tests.
 
 ## Basic Requirements
 
@@ -41,8 +42,7 @@ Here's what you should strive for:
 
 ## Bonus
 
-- Provide proper unit tests.
-- Add and enpoint to get the health status of the services
+- Write a API Gateway to monitor the status of services and be able to notify by the event bus in kafka or any other streaming process you have used, what service is failing.
 - Providing an online demo is welcomed, but not required.
 
 ## Good luck!
