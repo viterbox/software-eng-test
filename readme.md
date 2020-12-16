@@ -2,7 +2,7 @@
 
 ## Requirement
 
-You have to code REST API's based on microservices architecture to get grocery orders and to simulate the process of payment. The information flow must be the following
+You have code a solution that be able to handle the process of a purchase on an ecommerce. The information flow must be the following
 
 1. User registration
 2. User choose order items
@@ -10,7 +10,7 @@ You have to code REST API's based on microservices architecture to get grocery o
 4. Payment Process
 5. Order is created
 
-For communication between microservices, you must use Kafka or any other streaming platform that you know
+You have to defined the software architecture and explain the reasons why you would select
 
 ## What We Care About
 
