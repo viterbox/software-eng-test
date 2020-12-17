@@ -4,13 +4,7 @@
 
 You have code a solution that be able to handle the process of a purchase on an ecommerce. The information flow must be the following
 
-1. User registration
-2. User choose order items
-3. User cart checkout
-4. Payment Process
-5. Order is created
-
-You have to defined the software architecture and explain the reasons why you would select
+You have to defined the software architecture and explain the reasons why you would select it
 
 ## What We Care About
 
@@ -34,7 +28,7 @@ Here's what you should strive for:
 
 ## Basic Requirements
 
-1. Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework) or DotNetCore Framework (C#).
+1. Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework), Go or DotNetCore Framework (C#).
 2. Use any persistence store, explain your selection.
 3. Write concise and clear commit messages.
 4. Draw the Software architecture diagram
