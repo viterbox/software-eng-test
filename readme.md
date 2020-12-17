@@ -2,9 +2,7 @@
 
 ## Requirement
 
-You have code a solution that be able to handle the process of a purchase on an ecommerce. The information flow must be the following
-
-You have to defined the software architecture and explain the reasons why you would select it
+You have to design a solution to handle the process of a purchase on an ecommerce. You have to defined the software architecture and explain the reasons why you would select it. Develop at least 1 of the software components of your design.
 
 ## What We Care About
 
@@ -15,28 +13,13 @@ We're interested in your method and how you approach the problem just as much as
 Here's what you should strive for:
 
 - Software architecture diagram
-- Good use of the backend stack selected
-- API design best practices.
+- Good use of the backend stack selected - Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework), Go or DotNetCore Framework (C#).
+- Software design best practices.
 - Solid testing approach.
 - Extensible code.
 
-
-## Functionality
-1. Write the HTTP endpoints needed to follow the information flow specified.
-2. Write the HTTP endpoints to get and filter orders by id, user, date, and page (pagination)
-3. Provide proper unit tests.
-
-## Basic Requirements
-
-1. Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework), Go or DotNetCore Framework (C#).
-2. Use any persistence store, explain your selection.
-3. Write concise and clear commit messages.
-4. Draw the Software architecture diagram
-5. Write clear documentation on how it has been designed and how to run the code.
-
 ## Bonus
 
-- Write a API Gateway to monitor the status of services and be able to notify by the event bus in kafka or any other streaming platform that you have used for the communication between microservices, what service is failing.
 - Providing an online demo is welcomed, but not required.
 
 ## Good luck!
