@@ -2,7 +2,7 @@
 
 ## Requirement
 
-You have to design a solution to handle the process of a purchase on an ecommerce. You have to defined the software architecture and explain the reasons why you would select it. Develop at least 1 of the software components of your design.
+You have to design a solution to handle the process of a purchase on an ecommerce. You have to defined the software architecture and explain the reasons why you would select it. Develop one of the software components of your design.
 
 ## What We Care About
 
@@ -13,7 +13,7 @@ We're interested in your method and how you approach the problem just as much as
 Here's what you should strive for:
 
 - Software architecture diagram
-- Good use of the backend stack selected - Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework), Go or DotNetCore Framework (C#).
+- Good use of the backend stack selected - Use Springboot (Java or Kotlin), NodeJs (Express, Loopback or Hapi framework)
 - Software design best practices.
 - Solid testing approach.
 - Extensible code.
